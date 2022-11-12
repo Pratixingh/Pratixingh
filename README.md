@@ -14,8 +14,7 @@
 
 - 📫 How to reach me **pratikranchi01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1845eloG7viA1WXmyKaHyxgWrmDIblavw/view?usp=sharing](https://drive.google.com/file/d/1845eloG7viA1WXmyKaHyxgWrmDIblavw/view?usp=sharing)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratixingh" alt="pratixingh" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
